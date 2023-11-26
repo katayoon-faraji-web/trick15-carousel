@@ -1,6 +1,6 @@
 # trick15-carousel
 
-- [Demo Project](https://katayoon-faraji-web.github.io/trick14-carousel/)
+- [Demo Project](https://katayoon-faraji-web.github.io/trick15-carousel/)
 
 - Developed by katayoon faraji
 
